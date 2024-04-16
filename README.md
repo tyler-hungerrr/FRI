@@ -1,0 +1,1 @@
+This is a Paper that covers the first 3 steps of computer infiltration. The topic of the paper includes the Motivations and the Techniques Used to Find, Conduct Reconnaissance On, and Infiltrate Computer Systems.
